@@ -13,7 +13,6 @@ Included in this repository are:
 - Final Design for project
 - Instructions for printing and putting together this device
 - Photos of the device
-- Videos of the device operating on mock tails
 
 # **Instructions for Device Use**
 
